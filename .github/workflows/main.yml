@@ -1,0 +1,20 @@
+name: Android Build
+
+on: 
+ push:
+  branches: ["main"] 
+
+  jobs:
+    build:
+     runs-on: ubuntu-latest
+
+  Steps:
+      - uses :action/checkour@v3
+
+      - name :Set up JDK
+      - uses :actions /setuo-java@v3
+      with: 
+          java-version: '17'
+
+       - name: Build Project
+       run: ./gragle build
