@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SocialSparkApp</string>
+    <string name="social_spark">social spark</string>
+    <string name="enter_time_of_day_morning_afternoon">Enter time of day(morning, afternoon...)</string>
+    <string name="getsuggetion">GetSuggetion</string>
+    <string name="suggestion_will_appear_here">Suggestion will appear here</string>
+    <string name="get_suggetion">Get suggetion</string>
+    <string name="get_suggestion" />
+</resources>
