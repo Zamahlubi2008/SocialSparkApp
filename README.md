@@ -6,6 +6,7 @@
  - Clean layout using LinearLayout
  - Personalized colours for homey "homely"vibes
  - Simple input and output structure
+   [whatch the demo here] (https://drive.google.com/file/d/16q6ALOTsE0TYyF8GBu-NbKK-ZmRaXGL2/view?usp=sharing)
 
    FUNCTIONALITY
 
