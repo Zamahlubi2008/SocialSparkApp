@@ -28,3 +28,9 @@
      GITHUB ACTIONS
 
      To automate the build process we used GitHub Actions. Evertime code is pushed, the project is automatically built to check for errors.
+
+REFERENCES
+
+Android Documentation.(2024).:https://kotlinlang.org
+GitHub Documentation.(2024).:https://docs.github.com
+ChatGpt:https://openai.com
