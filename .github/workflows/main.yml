@@ -8,13 +8,13 @@ on:
     build:
      runs-on: ubuntu-latest
 
-    steps:
+     steps:
       - uses :action/checkour@v3
 
       - name :Set up JDK
       - uses :actions /setuo-java@v3
       with: 
-          java-version: '17'
+        java-version: '17'
 
        - name: Build Project
        run: ./gragle build
