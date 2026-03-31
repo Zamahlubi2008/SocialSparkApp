@@ -8,7 +8,7 @@ on:
     build:
      runs-on: ubuntu-latest
 
-  Steps:
+    steps:
       - uses :action/checkour@v3
 
       - name :Set up JDK
